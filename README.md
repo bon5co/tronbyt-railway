@@ -1,5 +1,9 @@
 # tronbyt-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/tronbyt-server-or-just-updated-tidbyt-sm?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Tronbyt Server template](https://railway.com/deploy/tronbyt-server-or-just-updated-tidbyt-sm?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 [Tronbyt Server](https://github.com/tronbyt/server) packaged for Railway.
 
 Upstream's image is a `scratch` container holding one static Go binary — ideal for running,
